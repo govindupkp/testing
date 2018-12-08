@@ -1,0 +1,13 @@
+git@github.com:govindupkp/qrsample.git
+
+
+
+gtggtg
+
+git@github.com:govindupkp/qrsample.git
+
+Load Key "/c/Users/Home/.ssh/id_rsa": Is a directory Permisson denied <publickey>
+fatal: Could not read from remote repository.
+
+
+Enter Passphrase
